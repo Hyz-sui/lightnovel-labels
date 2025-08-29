@@ -1,0 +1,31 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Light Novel Labels",
+  "description": "ライトノベルレーベルリストのスキーマ",
+  "type": "object",
+  "properties": {
+    "labels": {
+      "type": "array",
+      "description": "レーベルのリスト",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "レーベル名"
+          },
+          "alternatives": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "レーベルの別名/表記ゆれ/書誌情報APIで観測された別表記など",
+            "default": []
+          }
+        },
+        "required": ["name"]
+      }
+    }
+  },
+  "required": ["labels"]
+}
