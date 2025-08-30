@@ -1,0 +1,169 @@
+{
+  "labels": [
+    {
+      "name": "EARTH STAR NOVEL",
+      "alternatives": [
+        "ＥＡＲＴＨ　ＳＴＡＲ　ＮＯＶＥＬ",
+        "アース・スターノベル"
+      ]
+    },
+    {
+      "name": "GAノベル",
+      "alternatives": ["ＧＡノベル"]
+    },
+    {
+      "name": "ＧＡ文庫",
+      "alternatives": ["GA文庫"]
+    },
+    {
+      "name": "ＧＣＮ文庫",
+      "alternatives": ["GCN文庫"]
+    },
+    {
+      "name": "ＧＣノベルズ",
+      "alternatives": ["GCノベルズ"]
+    },
+    {
+      "name": "HJ NOVELS",
+      "alternatives": ["ＨＪ　ＮＯＶＥＬＳ", "HJノベルス", "ＨＪノベルス"]
+    },
+    {
+      "name": "HJ文庫",
+      "alternatives": ["ＨＪ文庫"]
+    },
+    {
+      "name": "HOWLノベルス",
+      "alternatives": ["ＨＯＷＬノベルス"]
+    },
+    {
+      "name": "JUMP jBOOKS",
+      "alternatives": ["ＪＵＭＰ　ＪＢＯＯＫＳ"]
+    },
+    {
+      "name": "Ｊノベルライト",
+      "alternatives": ["Jノベルライト"]
+    },
+    {
+      "name": "KAエスマ文庫",
+      "alternatives": ["ＫＡエスマ文庫"]
+    },
+    {
+      "name": "MFブックス",
+      "alternatives": ["ＭＦブックス"]
+    },
+    {
+      "name": "MF文庫J",
+      "alternatives": ["ＭＦ文庫Ｊ"]
+    },
+    {
+      "name": "Mノベルス",
+      "alternatives": ["Ｍノベルス"]
+    },
+    {
+      "name": "PASH!ブックス",
+      "alternatives": ["ＰＡＳＨ！ブックス", "PASH！ブックス"]
+    },
+    {
+      "name": "PASH!文庫",
+      "alternatives": ["ＰＡＳＨ！文庫", "PASH！文庫"]
+    },
+    {
+      "name": "Saga Forest",
+      "alternatives": ["サーガフォレスト", "Ｓａｇａ　Ｆｏｒｅｓｔ"]
+    },
+    {
+      "name": "SQEXﾉﾍﾞﾙ",
+      "alternatives": ["ＳＱＥＸﾉﾍﾞﾙ", "SQEXノベル", "ＳＱＥＸノベル"]
+    },
+    {
+      "name": "ＴＯブックス",
+      "alternatives": ["TOブックス"]
+    },
+    {
+      "name": "アルファポリス文庫"
+    },
+    {
+      "name": "アルファライト文庫"
+    },
+    {
+      "name": "いずみノベルズ"
+    },
+    {
+      "name": "一迅社ノベルス"
+    },
+    {
+      "name": "オーバーラップノベルス"
+    },
+    {
+      "name": "オーバーラップ文庫"
+    },
+    {
+      "name": "ガガガブックス"
+    },
+    {
+      "name": "ガガガ文庫"
+    },
+    {
+      "name": "カドカワBOOKS",
+      "alternatives": ["カドカワＢＯＯＫＳ"]
+    },
+    {
+      "name": "角川スニーカー文庫",
+      "alternatives": ["スニーカー文庫"]
+    },
+    {
+      "name": "グラストNOVELS",
+      "alternatives": ["グラストＮＯＶＥＬＳ"]
+    },
+    {
+      "name": "講談社ラノベ文庫"
+    },
+    {
+      "name": "ダッシュエックス文庫"
+    },
+    {
+      "name": "ダンガン文庫"
+    },
+    {
+      "name": "電撃の新文芸"
+    },
+    {
+      "name": "電撃文庫"
+    },
+    {
+      "name": "ハガネ文庫"
+    },
+    {
+      "name": "一二三文庫"
+    },
+    {
+      "name": "ヒーロー文庫"
+    },
+    {
+      "name": "ファミ通文庫"
+    },
+    {
+      "name": "富士見ファンタジア文庫",
+      "alternatives": ["ファンタジア文庫"]
+    },
+    {
+      "name": "ブシロードノベル"
+    },
+    {
+      "name": "ブレイブ文庫"
+    },
+    {
+      "name": "マッグガーデン・ノベルズ",
+      "alternatives": ["マッグガーデンノベルズ"]
+    },
+    {
+      "name": "モンスター文庫"
+    },
+    {
+      "name": "モーニングスターブックス"
+    },
+    {
+      "name": "ワニのピア文庫"
+    }
+  ]
+}
