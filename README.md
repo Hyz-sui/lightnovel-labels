@@ -6,6 +6,10 @@
 
 人力で収集しているため、すべてのレーベルは網羅していません。プルリクエストにて、条件に当てはまるにもかかわらず収録されていないレーベルの追加や、登録の誤りの修正等を歓迎しています。
 
+## 活用例
+
+blueskyで稼働している[新刊ラノベbot](https://bsky.app/profile/did:plc:jleb6zbvkqkl5c7c2kpm2vny)にて、全新刊書籍からのライトノベルの絞り込みに使用しています。
+
 ## 仕様
 
 [`labels.json`](https://github.com/Hyz-sui/lightnovel-labels/blob/main/data/labels.json)にデータがあります。  
